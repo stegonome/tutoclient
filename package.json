@@ -1,0 +1,8 @@
+{
+    "name": "tuto-cozy-client",
+    "cozy-type": "static",
+    "cozy-displayName": "Tuto Client",
+    "version": "1.0.0",
+    "description": "tutoriel application statique",
+    "icon-path": "main_icon.png"
+}
